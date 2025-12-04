@@ -1,3 +1,0 @@
-- Teams that contribute to product development or customer support
-- Anyone who creates or maintains education content
-- Users who set up, manage, or troubleshoot integrations
